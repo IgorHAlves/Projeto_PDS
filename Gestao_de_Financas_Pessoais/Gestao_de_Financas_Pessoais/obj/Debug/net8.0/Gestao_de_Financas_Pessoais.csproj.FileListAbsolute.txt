@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\bin\Debug\net8.0\Gestao_de_Financas_Pessoais.exe
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\bin\Debug\net8.0\Gestao_de_Financas_Pessoais.deps.json
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\bin\Debug\net8.0\Gestao_de_Financas_Pessoais.runtimeconfig.json
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\bin\Debug\net8.0\Gestao_de_Financas_Pessoais.dll
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\bin\Debug\net8.0\Gestao_de_Financas_Pessoais.pdb
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.dll
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\refint\Gestao_de_Financas_Pessoais.dll
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.pdb
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\Gestao_de_Financas_Pessoais.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Gestao_de_Financas_Pessoais\Gestao_de_Financas_Pessoais\obj\Debug\net8.0\ref\Gestao_de_Financas_Pessoais.dll
