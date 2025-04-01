@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj": {}
+    "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj": {
+    "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj",
+        "projectUniqueName": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj",
         "projectName": "Gestao_de_Financas_Pessoais",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj",
+        "projectPath": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\obj\\",
+        "outputPath": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

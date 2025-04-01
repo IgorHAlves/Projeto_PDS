@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\",
+  "WorkspaceRootPath": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\users\\aluno\\source\\repos\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\dev\\projeto_pds\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|solutionrelative:gestao_de_financas_pessoais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\users\\aluno\\source\\repos\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\dev\\projeto_pds\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|solutionrelative:gestao_de_financas_pessoais\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\users\\aluno\\source\\repos\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|solutionrelative:gestao_de_financas_pessoais\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\users\\aluno\\source\\repos\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|c:\\dev\\projeto_pds\\gestao_de_financas_pessoais\\gestao_de_financas_pessoais\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E54324F-0829-4251-80A6-740496E4424D}|Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais.csproj|solutionrelative:gestao_de_financas_pessoais\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,56 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Conta.cs",
+              "DocumentMoniker": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Conta.cs",
               "RelativeDocumentMoniker": "Gestao_de_Financas_Pessoais\\Conta.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Conta.cs",
+              "ToolTip": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Conta.cs",
               "RelativeToolTip": "Gestao_de_Financas_Pessoais\\Conta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T01:09:53.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T01:09:53.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Despesa.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Despesa.cs",
-              "RelativeDocumentMoniker": "Gestao_de_Financas_Pessoais\\Despesa.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Despesa.cs",
-              "RelativeToolTip": "Gestao_de_Financas_Pessoais\\Despesa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:58:03.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Receita.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Receita.cs",
+              "DocumentMoniker": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Receita.cs",
               "RelativeDocumentMoniker": "Gestao_de_Financas_Pessoais\\Receita.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Receita.cs",
+              "ToolTip": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Receita.cs",
               "RelativeToolTip": "Gestao_de_Financas_Pessoais\\Receita.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T00:58:01.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T00:58:01.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Program.cs",
               "RelativeDocumentMoniker": "Gestao_de_Financas_Pessoais\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Program.cs",
+              "ToolTip": "C:\\dev\\Projeto_PDS\\Gestao_de_Financas_Pessoais\\Gestao_de_Financas_Pessoais\\Program.cs",
               "RelativeToolTip": "Gestao_de_Financas_Pessoais\\Program.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAgwIQAAABFAAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAgwKQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T23:00:48.756Z",
               "EditorCaption": ""
